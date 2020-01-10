@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VPl5wMGK9UOXbx0a3b34MloxXv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,11 +65,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577162430382</updated>
-      <workItem from="1577162433913" duration="182000" />
+      <workItem from="1577162433913" duration="315000" />
+      <workItem from="1578677830065" duration="72000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1286" height="155" key="GridCell.Tab.0.bottom" timestamp="1577162750635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577162750635" />
+    <state width="1286" height="155" key="GridCell.Tab.0.center" timestamp="1577162750635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577162750635" />
+    <state width="1286" height="155" key="GridCell.Tab.0.left" timestamp="1577162750635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577162750635" />
+    <state width="1286" height="155" key="GridCell.Tab.0.right" timestamp="1577162750635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577162750635" />
+    <state x="65" y="0" key="new project wizard" timestamp="1577162748704">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1577162748704" />
   </component>
 </project>
